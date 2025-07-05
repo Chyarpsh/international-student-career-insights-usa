@@ -22,30 +22,6 @@ International students (like me!) want a roadmap: which universities are most li
 | `images/`              | Charts and screenshots |
 | `README.md`            | This documentation |
 
-## 📁 Folder Structure
-
-opt-advantage/
-│
-├── README.md ← Full project documentation
-├── data/
-│ ├── raw/ ← Original data (from Kaggle, ICE, College Scorecard, etc.)
-│ └── cleaned/ ← Processed & cleaned CSVs
-│
-├── notebooks/ ← Jupyter notebooks for analysis
-│ └── data_analysis.ipynb
-│
-├── dashboards/ ← Power BI / Tableau visualizations
-│ └── opt_dashboard.pbix
-│
-├── slides/ ← Business storytelling deck
-│ └── insights_deck.pdf
-│
-├── scripts/ ← Automation / AI-generated summaries
-│ └── auto_documentation.py
-│
-└── images/ ← Graphs, screenshots, logos, and LinkedIn post media
-└── roi_chart.png
-
 ## 📂 Getting Started
 1. Clone the repo:
    ```bash
