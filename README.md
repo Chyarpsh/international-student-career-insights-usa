@@ -1,4 +1,4 @@
-# International Student career insights in usa – Visa & Career Insights for International Students
+# International Students career insights in usa – Visa & Career Insights for International Students
 
 ### Goal
 
