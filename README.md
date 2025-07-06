@@ -1,4 +1,4 @@
-# OPT Advantage – Visa & Career Insights for International Students
+# International Student career insights in usa – Visa & Career Insights for International Students
 
 ### Goal
 
